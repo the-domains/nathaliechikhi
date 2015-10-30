@@ -1,0 +1,23 @@
+name: NathalieChikhi
+favicon: null
+layout_spectrum: 0.7492162073031068
+typography_spectrum: 0.6439935259986669
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.49373868270777166
+  lightness: 0.27531034243293107
+  saturation: 0.28824928239919245
+  rhythmicContrast: 0.9031965965405107
+purpose: []
