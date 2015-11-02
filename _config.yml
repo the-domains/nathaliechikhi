@@ -1,7 +1,7 @@
 name: NathalieChikhi
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6439935259986669
+typography_spectrum: 0.75466
 title: Artwork of the artist Nathalie Chikhi
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#5e280f'
     - '#fa59a3'
     - '#68d0d7'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.27531034243293107
   saturation: 0.28824928239919245
   rhythmicContrast: 0.9031965965405107
